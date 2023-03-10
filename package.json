@@ -1,0 +1,26 @@
+{
+  "name": "@types/vue3-carousel-3d",
+  "version": "1.0.0",
+  "description": "TypeScript type definitions for the vue3-carousel-3d",
+  "contributors": [
+    {
+      "name": "Tae Hee Hwang",
+      "url": "https://github.com/tevem1207",
+      "githubUsername": "tevem1207"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tevem1207/vue3-carousel-3d-types.git"
+  },
+  "license": "MIT",
+  "typings": "index.d.ts",
+  "dependencies": {
+    "vue": "^3.2.28",
+    "vue3-carousel-3d": "1.0.4"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^3.0.3",
+    "vite": "^3.0.9"
+  }
+}
